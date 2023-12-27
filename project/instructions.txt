@@ -1,0 +1,11 @@
+Login details to the server:
+
+login admin
+password admin
+
+Viewer page:
+login viewer
+password viewerviewer
+
+For running the project, Django should be installed.
+
