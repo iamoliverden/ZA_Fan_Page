@@ -16,4 +16,4 @@ We don't want any contact.
 
 ## License
 
-You cannot use/change any part of the file.
+You cannot use/change any part of the files.
